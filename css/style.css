@@ -862,8 +862,8 @@ footer a:hover {
     display: none;
   }
   .hamburger_active span:nth-child(3) {
-    -webkit-transform: translateX(3px) rotate(45deg);
-            transform: translateX(3px) rotate(45deg);
+    -webkit-transform: translateY(3px) rotate(45deg);
+            transform: translateY(3px) rotate(45deg);
   }
   .xs-hidden {
     display: none;
